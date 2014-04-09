@@ -5,9 +5,14 @@ public static main (String args[]){
 
 }
 
+<<<<<<< HEAD
 private howStuffWorks(){
 // TOP Secret !!! 
 
+=======
+public method ()
+{
+>>>>>>> origin/Maintain-Branch
 }
 
 }
