@@ -5,4 +5,8 @@ public static main (String args[]){
 
 }
 
+public method ()
+{
+}
+
 }
